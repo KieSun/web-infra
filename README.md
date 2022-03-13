@@ -1,5 +1,14 @@
 # web-infra
 
+<GitHubWrapper>
+
+<p align="center" class="print-break">
+	<GithubInfos />
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" style="display:inline-block"><img src="https://raw.githubusercontent.com/fenixsoft/awesome-fenix/master/.vuepress/public/images/DocLicense-CC-red.svg" alt="Document License"></a>
+	<PublishInfos />
+</p>
+</GitHubWrapper>
+
 本仓库内容为前端工程化系列，预期一周更新 1 ~ 2 篇内容。本来是想做成收费内容的，但是种种原因之下还是决定开源（其实是为了方便摆烂）。
 
 工程化是个很大的领域，远远不止聊点 Webpack 或者脚手架那么简单，当然它们也确实属于工程化的一小部分。
@@ -60,3 +69,10 @@
 
 - [ ] Monorepo
 - [ ] 微前端
+
+## 协议
+
+- 本作品文档部分采用[知识共享署名 4.0 国际许可协议](http://creativecommons.org/licenses/by/4.0/)进行许可。 遵循许可的前提下，你可以自由地共享，包括在任何媒介上以任何形式复制、发行本作品，亦可以自由地演绎、修改、转换或以本作品为基础进行二次创作。但要求你：
+  - **署名**：应在使用本文档的全部或部分内容时候，注明原作者及来源信息。
+  - **非商业性使用**：不得用于商业出版或其他任何带有商业性质的行为。如需商业使用，请联系作者。
+  - **相同方式共享的条件**：在本文档基础上演绎、修改的作品，应当继续以知识共享署名 4.0 国际许可协议进行许可。
